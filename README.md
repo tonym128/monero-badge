@@ -10,7 +10,7 @@ The badge contains text on the front and back and you must  decode the encrypted
 
 After decoding it, use the same decode key to encode a string of our choosing tweet us and we'll give you a prize. (44 - 74 characters, to show full solution, and tweet us, plus we have to like your message!)
 
-@tonym128 or @elasticninja
+@tonym128 , @elasticninja and @fluffypony
 
 ## [<span aria-hidden="true" class="octicon octicon-link"></span>](#where-do-i-see-people-getting-stuck)Where do I see people getting stuck.
 
