@@ -25,4 +25,4 @@ After decoding it, we ask them to use the same key to encode their own name, or 
 13) Roll back the garbage to 'crypto means crypto means crypto meanscrypto means ', get 'Krypto, Superman's pet dog in the popular comic, ca'
 14) Double up and remove extra hex characters, gets me 'crypto means crypto means crypto meanscrypto means crypto means crypto mea' as the key, hex is '63727970746f206d65616e732063727970746f206d65616e732063727970746f206d65616e7363727970746f206d65616e732063727970746f206d65616e732063727970746f206d6561'
 
-15) Done, use that to encrypt our random string for you
+15) Done, use that to encrypt a string to us
