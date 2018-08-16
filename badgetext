@@ -1,0 +1,16 @@
+ <p className="App-intro">
+            We'll be working with the front of badge value :<br/>
+            <br/>
+            70 65 6c 63 67 62 20 7a 72 6e 61 66 20 70 65 6c 63 67 62 20 7a 72 6e 61 66<br/>
+            <br/>
+            And using a back of badge value of :<br/>
+            <br/>
+            28 00 00 00 00 00 0c 4d 36 14 1e 16 52 0e 13 17 57 07 4f 50 08 11 41 0a 1c 47 43 1b 17 50 00 07 45 4d 15 0e 1e 06 0f 13 0b 50 17 00 4d 04 06 4d 4e 10 41 11 06 16 1f 1a 43 00 0c 0b 05 4e 1e 4f 15 1b 1c 50 07 0a 52 04 00 12<br/>
+        </p>
+        <h1 className="App-title">Step 1 Decrypt Front of Badge</h1>
+
+        <label>Front Encrypted Hex: <input type="text" name="front_encrypted" /></label><br/>
+        <label>Front Ascii: <input type="text" name="front_ascii" /></label><br/>
+        <label>Front Ascii Rot-13: <input type="text" name="front_rot13" /></label><br/>
+
+        <h1 className="App-title">Step 2 Decrypt Back</h1>
