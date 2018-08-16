@@ -6,9 +6,9 @@
 
 Here's a static encrypted badge, decode the secret message and start the path to getting the real prize!
 
-The badge contains text on the front and back and the punters must decode them to win.
+The badge contains text on the front and back and you must  decode the encrypted message to win.
 
-After decoding it, we ask them to use the same key to encode a string of our choosing tweet us and we'll give them a prize. (44 - 74 characters, to show full solution, and tweet us, plus we have to like your message!)
+After decoding it, use the same decode key to encode a string of our choosing tweet us and we'll give you a prize. (44 - 74 characters, to show full solution, and tweet us, plus we have to like your message!)
 
 @tonym128 or @elasticninja
 
